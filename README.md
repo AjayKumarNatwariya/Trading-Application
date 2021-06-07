@@ -1,2 +1,2 @@
-# Trading-Bot
-This Repo for automatic trading bot using Python and Machine Learning.
+# Trading-Application
+This Repo for Desktop Trading Application That consist Python, PYQT5, Yfinance and many other concepts.
